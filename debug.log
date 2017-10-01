@@ -1,0 +1,3 @@
+[1001/085330.590:ERROR:process_reader_win.cc(123)] NtOpenThread: {Zugriff verweigert} Ein Prozess hat einen Zugriff auf ein Objekt angefordert, aber ihm wurden nicht die Rechte für den Zugriff erteilt.  (0xc0000022)
+[1001/085330.590:ERROR:exception_snapshot_win.cc(87)] thread ID 9552 not found in process
+[1001/085330.590:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
