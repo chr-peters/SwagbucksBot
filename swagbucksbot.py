@@ -75,7 +75,7 @@ class bot:
                 self.driver.switch_to.window(base_handle)
 
 if __name__ == '__main__':
-    swagbot = bot('efa87575@tiapz.com', 'Rz3v6e8t')
+    swagbot = bot('username', 'password')
     swagbot.login()
     while True:
         swagbot.solve_memory()
